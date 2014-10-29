@@ -1,0 +1,6 @@
+#include "Arduino.h"
+#include "SimpleMusic.h"
+
+SimpleMusic::SimpleMusic(int pin){
+
+}
